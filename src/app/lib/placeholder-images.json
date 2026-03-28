@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract technological background",
+      "imageUrl": "https://picsum.photos/seed/stealth1/1200/800",
+      "imageHint": "technology abstract"
+    },
+    {
+      "id": "token-eth",
+      "description": "Ethereum logo placeholder",
+      "imageUrl": "https://picsum.photos/seed/eth/100/100",
+      "imageHint": "crypto ethereum"
+    },
+    {
+      "id": "token-usdc",
+      "description": "USDC logo placeholder",
+      "imageUrl": "https://picsum.photos/seed/usdc/100/100",
+      "imageHint": "finance coin"
+    }
+  ]
+}
