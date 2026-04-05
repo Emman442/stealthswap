@@ -142,7 +142,17 @@ export default function StealthAgentDashboard() {
               <div className="mr-2 h-2 w-2 animate-pulse rounded-full bg-emerald-500" />
               Encrypted Inference Active
             </Badge>
-            <WalletConnectButton />
+            <WalletConnectButton style={{
+              height: "2.5rem",
+              borderRadius: "8px",
+              background: "#2563EB",
+              color: "white",              
+              border: "none",
+              padding: "0 1.5rem",
+              fontSize: "0.875rem",
+              fontWeight: "500",
+              cursor: "pointer",
+            }}/>
           </div>
         </div>
       </header>
