@@ -2,7 +2,7 @@
 
 Hey there,
 
-I built **StealthEdge** — a private research agent that lets you analyze Polymarket prediction markets without exposing your research intent or strategy to any third-party servers.
+I built **StealthEdge**, a private research agent that lets you analyze Polymarket prediction markets without exposing your research intent or strategy to any third-party servers.
 
 ### What is StealthEdge?
 
@@ -80,5 +80,6 @@ Built as a submission for the SolRouter Bounty.
 I’d love any feedback on the privacy feel, response quality, or UI!
 
 ---
-
-Made with ❤️ for private DeFi intelligence.
+- <a href="https://x.com/EmmanuelNdema1/status/2041807008983076902?s=20">App Video Demo</a> </br>
+- Want to get started with the SOlRouter SDK? <a href="https://youtu.be/Ex8JbSmihyM?si=8d4WhhojAQo9Az1C">start here</a> </br>
+- Want to learn more about Private Inference? Check out this <a href = "https://x.com/EmmanuelNdema1/status/2041612906848981327?s=20">article<a/> I wrote 
